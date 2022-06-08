@@ -2,7 +2,7 @@
 title: "Burly1 is a mouse QTL for lean body mass that maps to a 0.8-Mb region of chromosome 2"
 collection: publications
 permalink: /publication/2018-Mammalian_Genome.md
-excerpt: Cailu Lin, Brad D. Fesi, **Michael Marquis**, Natalia P. Bosak, Anna Lysenko, Mohammed Amin Koshnevisan, Fujiko F. Duke, Maria L. Theodorides, Theodore M. Nelson, Amanda H. McDaniel, Mauricio Avigdor, Charles J. Arayata, Lauren Shaw, Alexander A. Bachmanov, Danielle R. Reed. _Mammalian Genome_ 29 (2018): 325-343.
+excerpt: 'Cailu Lin, Brad D. Fesi, **Michael Marquis**, Natalia P. Bosak, Anna Lysenko, Mohammed Amin Koshnevisan, Fujiko F. Duke, Maria L. Theodorides, Theodore M. Nelson, Amanda H. McDaniel, Mauricio Avigdor, Charles J. Arayata, Lauren Shaw, Alexander A. Bachmanov, Danielle R. Reed. _Mammalian Genome_ 29 (2018): 325-343.'
 date: 2018-05-08
 venue: 'Mammalian Genome'
 paperurl: 'https://doi.org/10.1007/s00335-018-9746-7'
