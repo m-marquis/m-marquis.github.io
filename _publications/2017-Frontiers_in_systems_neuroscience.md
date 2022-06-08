@@ -2,7 +2,7 @@
 title: "Two types of receptive field dynamics in area V4 at the time of eye movements?"
 collection: publications
 permalink: /publication/2017-Frontiers_in_systems_neuroscience
-excerpt: 'Till S. Hartmann, Mark Zirnsak, **Michael Marquis**, Fred H. Hamker, Tirin Moore.'
+excerpt: 'Till S. Hartmann, Mark Zirnsak, **Michael Marquis**, Fred H. Hamker, Tirin Moore. _Frontiers in Systems Neuroscience_ 11 (2017)'
 date: 2017-03-21
 venue: 'Frontiers in Systems Neuroscience'
 paperurl: 'https://doi.org/10.3389/fnsys.2017.00013'
