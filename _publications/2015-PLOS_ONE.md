@@ -2,7 +2,7 @@
 title: "Body Composition QTLs Identified in Intercross Populations Are Reproducible in Consomic Mouse Strains"
 collection: publications
 permalink: /publication/2015-PLOS_ONE
-excerpt: 'Cailu Lin, Brad D. Fesi, **Michael Marquis**, Natalia P. Bosak, Maria L. Theodorides, Mauricio Avigdor, Amanda H. McDaniel, Fujiko F. Duke, Anna Lysenko, Amin Khoshnevisan, Brian R. Gantick, Charles J. Arayata, Theodore M. Nelson, Alexander A. Bachmanov, Danielle R. Reed.'
+excerpt: 'Cailu Lin, Brad D. Fesi, **Michael Marquis**, Natalia P. Bosak, Maria L. Theodorides, Mauricio Avigdor, Amanda H. McDaniel, Fujiko F. Duke, Anna Lysenko, Amin Khoshnevisan, Brian R. Gantick, Charles J. Arayata, Theodore M. Nelson, Alexander A. Bachmanov, Danielle R. Reed. _PLOS ONE_ 10(11) (2015): e0141494'
 date: 2015-11-09
 venue: 'PLOS ONE'
 paperurl: 'https://doi.org/10.1371/journal.pone.0141494'
