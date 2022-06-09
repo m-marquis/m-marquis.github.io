@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-[Download resume/CV here](http://mmarquis89.github.io/files/Michael_Marquis_resume.pdf)
+[Download resume/CV here](http://m-marquis.github.io/files/Michael_Marquis_resume.pdf)
