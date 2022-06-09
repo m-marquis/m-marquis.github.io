@@ -1,7 +1,7 @@
 ---
 title: "Dopamine promotes head direction plasticity during orienting movements"
 collection: publications
-permalink: /publication/2022-Nature.md
+permalink: /publication/2022-Nature
 excerpt: 'Yvette E. Fisher\*, **Michael Marquis**\*, Isabel D''Alessandro, Rachel I. Wilson. _Under Review_ (2022). *Co-first authors'
 date: 2022-06-02
 venue: '*Under review*'
