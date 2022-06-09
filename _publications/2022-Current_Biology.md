@@ -1,7 +1,7 @@
 ---
 title: "Drosophila dopamine neurons conjunctively encode locomotion and odor"
 collection: publications
-permalink: /publication/2022-Current_Biology.md
+permalink: /publication/2022-Current_Biology
 excerpt: '**Michael Marquis**, Rachel I. Wilson. _Submitted_. (2022).'
 date: 2022-06-01
 venue: '*Submitted*'
