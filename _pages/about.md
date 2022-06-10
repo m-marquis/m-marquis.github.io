@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher in [Rachel Wilson's lab](http://wilson.hms.harvard.edu/) at Harvard University, where I recently completed my PhD. My doctoral work is focused on studying the computational principles underlying brain function using *in vivo* neural recordings and neural circuit modeling, with an emphasis on the roles of dopamine in navigation and sensory processing. I'm currently seeking a position that will allow me to apply the strong quantitative research skills I gained during my PhD to questions outside of neuroscience. 
+I am a postdoctoral researcher in [Rachel Wilson's lab](http://wilson.hms.harvard.edu/) at Harvard University, where I recently completed my PhD. My doctoral work is focused on studying the computational principles underlying brain function using *in vivo* neural recordings and neural circuit modeling, with an emphasis on the roles of dopamine in navigation and sensory processing. I'm currently interested in a role that would allow me to apply the strong quantitative research skills I gained during my PhD to questions outside of neuroscience. 
